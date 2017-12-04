@@ -1,8 +1,10 @@
 
 ##install
+
 * git get github.com/aiyeyun/logger.git
 
-##Instructions
+Instructions
+----
 
 ```golang
 package main
