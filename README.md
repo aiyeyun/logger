@@ -1,5 +1,5 @@
-
-##install
+Install
+----
 
 * git get github.com/aiyeyun/logger.git
 
@@ -27,7 +27,8 @@ func main() {
 
 ```
 
-##output shell
+output shell
+----
 
 ```shell
 [INFO] 2017-12-04 17:47:42 main.go:6 ▶ this is info message
