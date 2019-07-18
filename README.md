@@ -1,7 +1,7 @@
 Install
 ----
 
-* git get github.com/aiyeyun/logger.git
+* go get github.com/aiyeyun/logger.git
 
 Instructions
 ----
